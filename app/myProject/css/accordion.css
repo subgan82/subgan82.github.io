@@ -1,0 +1,27 @@
+.accordionContainer {
+  border: 1px solid black;
+}
+
+.accordionPanel {
+  border: 1px solid lightgrey;
+}
+
+.accordionPanelTitleNode {
+  border-bottom: 1px solid grey; 
+  cursor: pointer;
+  color: black;
+  background-color: grey;
+  text-align: center;
+}
+
+.accordionPanelTitle {
+  cursor: pointer;
+}
+
+.accordionHidePanel {
+  display: none;    
+}
+
+.accordionShowPanel {
+  display: block;
+}
